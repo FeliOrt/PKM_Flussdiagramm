@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T07:57:35.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="CsjPbnXfUe44VEJPue9Y" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T12:18:57.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="JxZHpceS9eNB2H4Zp0u8" version="22.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3715" dy="2463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="2463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -69,15 +69,15 @@
           </mxCell>
         </object>
         <mxCell id="h4Mbpic349QLJTQZ1xPw-22" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fontSize=16;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry y="1000" width="790" height="10" as="geometry" />
+          <mxGeometry x="5" y="1040" width="790" height="10" as="geometry" />
         </mxCell>
         <mxCell id="h4Mbpic349QLJTQZ1xPw-24" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="740" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="h4Mbpic349QLJTQZ1xPw-25" value="nicht quantifizierbar/OPs" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="15" y="960" width="780" height="30" as="geometry" />
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-25" value="&quot;Rest&quot; - nicht quantifizierbar/OPs/Einfluss auf Stromsystem" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="1000" width="780" height="30" as="geometry" />
         </mxCell>
-        <object label="&lt;h1 style=&quot;font-size: 27px;&quot;&gt;Treiber&lt;/h1&gt;" Treiber="kann Deskriptor entsprechen" id="h4Mbpic349QLJTQZ1xPw-33">
+        <object label="&lt;h1 style=&quot;font-size: 27px;&quot;&gt;Treiber&lt;/h1&gt;" Treiber="teilw. Deskriptoren" id="h4Mbpic349QLJTQZ1xPw-33">
           <mxCell style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontSize=27;glass=0;shadow=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
             <mxGeometry x="40" y="-10" width="190" height="50" as="geometry" />
           </mxCell>
@@ -124,7 +124,7 @@
           <mxGeometry x="1240" y="110" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h4Mbpic349QLJTQZ1xPw-61" value="Verflechtung Stromsystem" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="350" y="1100" width="150" height="70" as="geometry" />
+          <mxGeometry x="305" y="1090" width="150" height="70" as="geometry" />
         </mxCell>
         <object label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Europäisierung&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" id="h4Mbpic349QLJTQZ1xPw-64">
           <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;direction=north;align=left;labelBackgroundColor=none;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
