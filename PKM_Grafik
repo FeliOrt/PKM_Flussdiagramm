@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T14:38:28.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="CwnvmaI1IuWwCKUos6_H" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T14:38:55.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="jvawF3vQ-o2gfIfpJq2n" version="22.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1970" dy="2810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
             <mxGeometry x="570" y="-35" width="190" height="50" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="h4Mbpic349QLJTQZ1xPw-57" value="OP: Kostenentwicklung pro pkm ?" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-57" value="Preisentwicklungen?" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="940" y="757" width="150" height="70" as="geometry" />
         </mxCell>
         <object label="&lt;h1 style=&quot;font-size: 27px;&quot;&gt;Stromnachfrage/system&lt;/h1&gt;" Treiber="kann Deskriptor entsprechen" id="h4Mbpic349QLJTQZ1xPw-58">
