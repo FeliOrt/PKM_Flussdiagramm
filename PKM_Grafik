@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-10-25T10:19:42.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="rTTLccbyzJClgruZJNUA" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-25T13:13:14.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="TLagadfOH439Pcls6VP-" version="22.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1622" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="h4Mbpic349QLJTQZ1xPw-22" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fontSize=16;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="35" y="1510" width="790" height="10" as="geometry" />
+          <mxGeometry x="20" y="1560" width="790" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="h4Mbpic349QLJTQZ1xPw-25" value="&quot;Rest&quot; - nicht quantifizierbar/OPs/Einfluss auf Stromsystem" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="45" y="1470" width="780" height="30" as="geometry" />
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-25" value="&quot;Rest&quot; - nicht quantifizierbar/OPs" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="1530" width="780" height="30" as="geometry" />
         </mxCell>
         <object label="&lt;h1 style=&quot;font-size: 27px;&quot;&gt;Treiber&lt;/h1&gt;" Treiber="teilw. Deskriptoren" id="h4Mbpic349QLJTQZ1xPw-33">
           <mxCell style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontSize=27;glass=0;shadow=1;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -32,11 +32,11 @@
           <mxGeometry x="1100" y="260" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h4Mbpic349QLJTQZ1xPw-61" value="Verflechtung Stromsystem" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="370" y="1540" width="150" height="70" as="geometry" />
+          <mxGeometry x="360" y="1590" width="150" height="70" as="geometry" />
         </mxCell>
         <object label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Europäisierung&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" id="h4Mbpic349QLJTQZ1xPw-64">
           <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;direction=north;align=left;labelBackgroundColor=none;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-            <mxGeometry x="35" y="1540" width="190" height="50" as="geometry" />
+            <mxGeometry x="30" y="1590" width="190" height="50" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="8XGPYldwMHjoKoiW072E-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
