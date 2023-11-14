@@ -1,0 +1,186 @@
+<mxfile host="app.diagrams.net" modified="2023-11-14T11:41:33.356Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="9Uq6NQfhE-ujqR0IxqTX" version="22.1.0" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="PKM">
+    <mxGraphModel dx="1379" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="8XGPYldwMHjoKoiW072E-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="810" y="195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8XGPYldwMHjoKoiW072E-31" value="Deskriptor aus CIB" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="870" y="195" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8XGPYldwMHjoKoiW072E-33" value="eigene Übersetzung aus CIB Deskriptor" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="870" y="240" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8XGPYldwMHjoKoiW072E-35" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;fillColor=#d0cee2;strokeColor=#56517e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="810" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <object label="&lt;div style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 17px;&quot;&gt;Demografische Entwicklung&lt;/span&gt;&lt;/div&gt;" Gesamtbevölkerung="harte Kopplung mit Gesamtnachfrage, &#xa;Quelle: Langfristprognose verkehr" id="h4Mbpic349QLJTQZ1xPw-8">
+          <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=17;direction=north;align=left;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="35" y="283" width="190" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-11" style="edgeStyle=none;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontSize=12;fontColor=default;startSize=8;endSize=8;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Mbpic349QLJTQZ1xPw-8" target="h4Mbpic349QLJTQZ1xPw-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-12" value="Erwerbstätige Bevölkerung" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=#56517e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="285" y="350" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-13" value="pkm - Beruf" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fontSize=21;labelPosition=center;align=center;strokeWidth=3;fontStyle=1;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="590" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=default;labelBackgroundColor=none;elbow=vertical;entryX=0.625;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Mbpic349QLJTQZ1xPw-12" target="h4Mbpic349QLJTQZ1xPw-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="384.9999999999998" as="sourcePoint" />
+            <mxPoint x="625" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;entryX=0.375;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="h4Mbpic349QLJTQZ1xPw-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="480" as="sourcePoint" />
+            <mxPoint x="620.0133333333334" y="541" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="Nutzung Homeoffice" mehrHomeoffice="Langfristprognose Verkehr; Idee: max. von Arbeitgeber vorgegeben, geringere Nutzung kann selbst bestimmt werden" id="h4Mbpic349QLJTQZ1xPw-15">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="285" y="453" width="150" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="8XGPYldwMHjoKoiW072E-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Mbpic349QLJTQZ1xPw-16" target="h4Mbpic349QLJTQZ1xPw-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="Verhältnis Videokonferenz/ Präsenzmeetings" VerhältnisVideokonferenz="Annahme, dass dies der Arbeitnehmen nicht selbst aussuchen kann und vom Arbeitgeber vorgegeben wird" id="h4Mbpic349QLJTQZ1xPw-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="285" y="551" width="150" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BIP/Kopf- Entwicklung&lt;/span&gt;&lt;/div&gt;" id="h4Mbpic349QLJTQZ1xPw-18">
+          <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;direction=north;align=left;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="35" y="336" width="190" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="8XGPYldwMHjoKoiW072E-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Mbpic349QLJTQZ1xPw-19" target="h4Mbpic349QLJTQZ1xPw-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-19" value="Veränderung Besetzungsgrad" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=#56517e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="285" y="649" width="150" height="70" as="geometry" />
+        </mxCell>
+        <object label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Carsharing/Ridesharing&lt;/span&gt;&lt;/div&gt;" CarsharingRidepooling="Übersetzung von SharingEconomy" id="h4Mbpic349QLJTQZ1xPw-21">
+          <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;direction=north;align=left;labelBackgroundColor=none;strokeWidth=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="35" y="676" width="190" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-39" value="&lt;b style=&quot;font-size: 21px;&quot;&gt;pkm - Gesamt&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;strokeWidth=3;rotation=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="705.37" y="586.0600000000001" width="404.36" height="95.94" as="geometry" />
+        </mxCell>
+        <object label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Räumliche Verteilung&lt;/span&gt;&lt;/div&gt;" id="h4Mbpic349QLJTQZ1xPw-49">
+          <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;direction=north;align=left;labelBackgroundColor=none;strokeWidth=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="35" y="755" width="190" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HmT0W7f4RcVqbWYqM7nN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.375;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Mbpic349QLJTQZ1xPw-50" target="h4Mbpic349QLJTQZ1xPw-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="402" y="778.7400000000001" as="sourcePoint" />
+            <mxPoint x="650" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-50" value="Arbeitsweglänge" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=#56517e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="285" y="747" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-51" value="Pendelverhalten" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="285" y="840" width="150" height="70" as="geometry" />
+        </mxCell>
+        <object label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Räumliche Verteilung&lt;/span&gt;&lt;/div&gt;" id="h4Mbpic349QLJTQZ1xPw-52">
+          <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;direction=north;align=left;labelBackgroundColor=none;strokeWidth=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="35" y="850" width="190" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-57" value="Preisentwicklungen?" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;labelBackgroundColor=none;fillColor=#fad9d5;strokeColor=#ae4132;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="860" y="800" width="150" height="70" as="geometry" />
+        </mxCell>
+        <object label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Entwicklung Arbeitswelt&lt;/span&gt;&lt;/div&gt;" id="HmT0W7f4RcVqbWYqM7nN-11">
+          <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;direction=north;align=left;labelBackgroundColor=none;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="35" y="389" width="190" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="HmT0W7f4RcVqbWYqM7nN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.625;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Mbpic349QLJTQZ1xPw-51" target="h4Mbpic349QLJTQZ1xPw-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="875" as="sourcePoint" />
+            <mxPoint x="659.6" y="530.1799999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sharing Economy&lt;/span&gt;&lt;/div&gt;" CarsharingRidepooling="Übersetzung von SharingEconomy" id="UUekRAIq09oKd7ZnaUNU-0">
+          <mxCell style="shape=offPageConnector;whiteSpace=wrap;html=1;fontSize=16;direction=north;align=left;labelBackgroundColor=none;strokeWidth=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="35" y="621" width="190" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="8XGPYldwMHjoKoiW072E-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.5" y="980" as="sourcePoint" />
+            <mxPoint x="359.5" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XGPYldwMHjoKoiW072E-19" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;strokeColor=none;edgeStyle=elbowEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Mbpic349QLJTQZ1xPw-16" target="h4Mbpic349QLJTQZ1xPw-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8XGPYldwMHjoKoiW072E-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Mbpic349QLJTQZ1xPw-13" target="h4Mbpic349QLJTQZ1xPw-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8XGPYldwMHjoKoiW072E-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Mbpic349QLJTQZ1xPw-12" target="h4Mbpic349QLJTQZ1xPw-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8XGPYldwMHjoKoiW072E-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="907.5450000000001" y="464.52499999999964" as="sourcePoint" />
+            <mxPoint x="907.5450000000001" y="464.52499999999964" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XGPYldwMHjoKoiW072E-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="330" as="sourcePoint" />
+            <mxPoint x="935" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8XGPYldwMHjoKoiW072E-44" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Mbpic349QLJTQZ1xPw-13" target="h4Mbpic349QLJTQZ1xPw-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;h1 style=&quot;font-size: 21px;&quot;&gt;ESM/SMM/&lt;/h1&gt;&lt;h1 style=&quot;font-size: 21px;&quot;&gt;Nachfragetool&lt;/h1&gt;" Treiber="kann Deskriptor entsprechen" id="8XGPYldwMHjoKoiW072E-45">
+          <mxCell style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontSize=21;glass=0;shadow=1;align=center;strokeColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="950" y="300" width="150" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="8XGPYldwMHjoKoiW072E-52" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="35" y="150" width="685" height="60" as="geometry" />
+        </mxCell>
+        <object label="&lt;h1 style=&quot;font-size: 27px;&quot;&gt;Treiber&lt;/h1&gt;" Treiber="teilw. Deskriptoren" id="h4Mbpic349QLJTQZ1xPw-33">
+          <mxCell style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontSize=27;glass=0;shadow=1;align=center;" parent="8XGPYldwMHjoKoiW072E-52" vertex="1">
+            <mxGeometry y="40" width="190" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="h4Mbpic349QLJTQZ1xPw-34" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Operationalisierte Deskriptoren&lt;/h1&gt;" style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontSize=20;glass=0;shadow=1;align=center;aspect=fixed;" parent="8XGPYldwMHjoKoiW072E-52" vertex="1">
+          <mxGeometry x="235" y="40" width="190" height="60" as="geometry" />
+        </mxCell>
+        <object label="&lt;h1 style=&quot;font-size: 27px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Wegzweck&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" Treiber="kann Deskriptor entsprechen" id="h4Mbpic349QLJTQZ1xPw-55">
+          <mxCell style="text;html=1;strokeColor=#0e8088;fillColor=#b0e3e6;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontSize=27;glass=0;shadow=1;align=center;" parent="8XGPYldwMHjoKoiW072E-52" vertex="1">
+            <mxGeometry x="485" y="40" width="190" height="60" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bPUMZvU-HJ8aBFqQqybW" name="TKM">
+    <mxGraphModel dx="1779" dy="809" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GpS05da2Yok62qFD6XXU-1" value="&lt;b style=&quot;font-size: 21px;&quot;&gt;tkm - Gesamt&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;strokeWidth=3;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="330" y="235.00000000000006" width="404.36" height="95.94" as="geometry" />
+        </mxCell>
+        <mxCell id="GpS05da2Yok62qFD6XXU-2" value="&lt;span style=&quot;font-size:16.0pt;font-family:&amp;quot;Univers LT Pro 55&amp;quot;;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Univers LT Pro 55&amp;quot;;mso-fareast-font-family:+mn-ea;&lt;br/&gt;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:&lt;br/&gt;minor-bidi;color:#323232;mso-color-index:1;mso-font-kerning:12.0pt;language:&lt;br/&gt;en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;&lt;br/&gt;mso-style-textfill-fill-color:#323232;mso-style-textfill-fill-alpha:100.0%&quot;&gt;Since freight transportation is &lt;/span&gt;&lt;span style=&quot;font-size:16.0pt;font-family:&lt;br/&gt;&amp;quot;Univers LT Pro 55&amp;quot;;mso-ascii-font-family:&amp;quot;Univers LT Pro 55&amp;quot;;mso-fareast-font-family:&lt;br/&gt;+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;&lt;br/&gt;mso-bidi-theme-font:minor-bidi;color:red;mso-font-kerning:12.0pt;language:en-GB;&lt;br/&gt;mso-style-textfill-type:solid;mso-style-textfill-fill-color:red;mso-style-textfill-fill-alpha:&lt;br/&gt;100.0%&quot;&gt;more constrained&lt;/span&gt;&lt;span style=&quot;font-size:16.0pt;font-family:&amp;quot;Univers LT Pro 55&amp;quot;;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Univers LT Pro 55&amp;quot;;mso-fareast-font-family:+mn-ea;&lt;br/&gt;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:&lt;br/&gt;minor-bidi;color:#323232;mso-color-index:1;mso-font-kerning:12.0pt;language:&lt;br/&gt;en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;&lt;br/&gt;mso-style-textfill-fill-color:#323232;mso-style-textfill-fill-alpha:100.0%&quot;&gt;,&lt;br&gt;depending on the &lt;/span&gt;&lt;span style=&quot;font-size:16.0pt;font-family:&amp;quot;Univers LT Pro 55&amp;quot;;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Univers LT Pro 55&amp;quot;;mso-fareast-font-family:+mn-ea;&lt;br/&gt;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:&lt;br/&gt;minor-bidi;color:red;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:&lt;br/&gt;solid;mso-style-textfill-fill-color:red;mso-style-textfill-fill-alpha:100.0%&quot;&gt;market trends&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:16.0pt;font-family:&amp;quot;Univers LT Pro 55&amp;quot;;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Univers LT Pro 55&amp;quot;;mso-fareast-font-family:+mn-ea;&lt;br/&gt;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:&lt;br/&gt;minor-bidi;color:#323232;mso-color-index:1;mso-font-kerning:12.0pt;language:&lt;br/&gt;en-GB;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;&lt;br/&gt;mso-style-textfill-fill-color:#323232;mso-style-textfill-fill-alpha:100.0%&quot;&gt;and policies that are in effect (&lt;/span&gt;&lt;span style=&quot;font-size:16.0pt;&lt;br/&gt;font-family:&amp;quot;Univers LT Pro 55&amp;quot;;mso-ascii-font-family:&amp;quot;Univers LT Pro 55&amp;quot;;&lt;br/&gt;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-bidi-theme-font:minor-bidi;color:#323232;mso-color-index:&lt;br/&gt;1;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;&lt;br/&gt;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:#323232;&lt;br/&gt;mso-style-textfill-fill-alpha:100.0%&quot;&gt;Baindur&lt;/span&gt;&lt;span style=&quot;font-size:&lt;br/&gt;16.0pt;font-family:&amp;quot;Univers LT Pro 55&amp;quot;;mso-ascii-font-family:&amp;quot;Univers LT Pro 55&amp;quot;;&lt;br/&gt;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-bidi-theme-font:minor-bidi;color:#323232;mso-color-index:&lt;br/&gt;1;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;&lt;br/&gt;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:#323232;&lt;br/&gt;mso-style-textfill-fill-alpha:100.0%&quot;&gt; and &lt;/span&gt;&lt;span style=&quot;font-size:16.0pt;&lt;br/&gt;font-family:&amp;quot;Univers LT Pro 55&amp;quot;;mso-ascii-font-family:&amp;quot;Univers LT Pro 55&amp;quot;;&lt;br/&gt;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-bidi-theme-font:minor-bidi;color:#323232;mso-color-index:&lt;br/&gt;1;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;&lt;br/&gt;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:#323232;&lt;br/&gt;mso-style-textfill-fill-alpha:100.0%&quot;&gt;Viegas&lt;/span&gt;&lt;span style=&quot;font-size:16.0pt;&lt;br/&gt;font-family:&amp;quot;Univers LT Pro 55&amp;quot;;mso-ascii-font-family:&amp;quot;Univers LT Pro 55&amp;quot;;&lt;br/&gt;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-bidi-theme-font:minor-bidi;color:#323232;mso-color-index:&lt;br/&gt;1;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;&lt;br/&gt;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:#323232;&lt;br/&gt;mso-style-textfill-fill-alpha:100.0%&quot;&gt;, 2011), the freight transport is&lt;br&gt;included in the model by &lt;/span&gt;&lt;span style=&quot;font-size:16.0pt;font-family:&amp;quot;Univers LT Pro 55&amp;quot;;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Univers LT Pro 55&amp;quot;;mso-fareast-font-family:+mn-ea;&lt;br/&gt;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:minor-fareast;mso-bidi-theme-font:&lt;br/&gt;minor-bidi;color:red;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:&lt;br/&gt;solid;mso-style-textfill-fill-color:red;mso-style-textfill-fill-alpha:100.0%&quot;&gt;receiving transport demand from industries (aus Dezentral Projekt)&lt;/span&gt;&lt;span style=&quot;font-size:16.0pt;&lt;br/&gt;font-family:&amp;quot;Univers LT Pro 55&amp;quot;;mso-ascii-font-family:&amp;quot;Univers LT Pro 55&amp;quot;;&lt;br/&gt;mso-fareast-font-family:+mn-ea;mso-bidi-font-family:+mn-cs;mso-fareast-theme-font:&lt;br/&gt;minor-fareast;mso-bidi-theme-font:minor-bidi;color:#323232;mso-color-index:&lt;br/&gt;1;mso-font-kerning:12.0pt;language:en-GB;mso-style-textfill-type:solid;&lt;br/&gt;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:#323232;&lt;br/&gt;mso-style-textfill-fill-alpha:100.0%&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-158" y="86" width="550" height="227" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
